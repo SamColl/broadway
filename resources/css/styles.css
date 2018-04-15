@@ -30,5 +30,10 @@ a {
   font-size: 18px;
   color: white;
 }
-.footer {  text-align: left; font-size: 11px;
+#footer {text-align: left;
+    font-size: 11px;
+    background-color: dimgrey;
+    color: white;
+}
+.links { text-align: left;
 }
